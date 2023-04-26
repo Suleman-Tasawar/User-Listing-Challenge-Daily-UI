@@ -1,21 +1,22 @@
-# Daily UI Challenge - Challenge [Number]: [Challenge Title]
+# Daily UI Challenge -: [User Lists]
 
 ## Challenge Description
 
-[Describe the challenge you solved. This can include the design brief, requirements, and any other relevant information.]
+The challenge was to build a UI from the design file provided.The core tasks were
+
+- To display users in a grid layout
+- The users data should contain name,title,image and a tag
+- The user can search for a name via search bar
 
 ## Solution
-
-[Describe your solution to the challenge. This can include your design process, any tools or resources you used, and any challenges you encountered while working on the solution.]
-
-## Screenshots
-
-[Include screenshots of your solution. This can include images of the design, any prototypes or mockups, and any other relevant visual aids.]
+I designed the UI with a grid layout 3x3.I stored the data in an array and then filtered the users with the filter method
 
 ## Technologies Used
 
-[Provide a list of any technologies or tools you used to create your solution. This can include design software, coding languages, or any other relevant technologies.]
+I used **React** for this project
 
 ## Lessons Learned
+I learned how to implement search functionality for any sort of input and i brushed up my grid layout skill
 
-[Reflect on what you learned from completing this challenge. This can include any new skills you developed, any insights you gained, and any areas where you would like to improve in the future.]
+## Link
+You can view the project on (Click Link)[]
