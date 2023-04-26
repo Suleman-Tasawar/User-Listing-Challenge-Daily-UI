@@ -19,4 +19,4 @@ I used **React** for this project
 I learned how to implement search functionality for any sort of input and i brushed up my grid layout skill
 
 ## Link
-You can view the project on (Click Link)[]
+You can view the project on (Click Link)[https://rb.gy/4dmzz]
